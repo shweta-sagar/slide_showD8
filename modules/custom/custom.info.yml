@@ -1,0 +1,6 @@
+name : slide_show_custom
+description : 'This module help to filter slide show images'
+package : custom
+type: module
+version : 8.1.01
+core : 8.x
